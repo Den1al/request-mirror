@@ -1,0 +1,23 @@
+{
+  "name": "request-mirror",
+  "version": "1.0.0",
+  "description": "A server that reflects the client's request data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r esm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Den1al/request-mirror.git"
+  },
+  "author": "@Daniel_Abeles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Den1al/request-mirror/issues"
+  },
+  "homepage": "https://github.com/Den1al/request-mirror#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "pm2": "^3.5.1"
+  }
+}
