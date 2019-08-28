@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/Den1al/request-mirror#readme",
   "dependencies": {
-    "esm": "^3.2.25",
-    "pm2": "^3.5.1"
+    "esm": "^3.2.25"
   }
 }

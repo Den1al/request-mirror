@@ -63,6 +63,7 @@ $ npm start
 ### PM2
 To run the server with pm2 (recommended):
 ```bash
+$ npm install -g pm2
 $ pm2 start ecosystem.config
 ```
 
